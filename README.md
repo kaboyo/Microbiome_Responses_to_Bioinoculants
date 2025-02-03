@@ -84,8 +84,9 @@ load("Bacteria_merged.RData")
 
 Contributors
 Expedito Olimi
+
 Acknowledgments
-This work was supported by the EXCALIBUR research project with funding from the European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 817946 (to Gabriele Berg).![image](https://github.com/user-attachments/assets/5e3cce01-f2d7-4d79-9935-d7fa93e77d34)
+This work was supported by the EXCALIBUR research project with funding from the European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 817946 (to Gabriele Berg).
 
 
 

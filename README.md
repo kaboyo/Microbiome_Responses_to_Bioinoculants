@@ -10,9 +10,9 @@ Olimi et al.,
 **ORCID** — (0000-0003-2549-0301)
 
 
-There is an increase in the adoption of biological solutions for plant production as a means of attaining sustainable agriculture. A detailed understanding of the influence of specific bioinoculants and their volatile metabolites on native soil and plant microbiomes can improve future microbiome management practices.Here, we explore the potential influence of bacterial inoculants and their associated volatiles on the soil and plant microbiome
+There is an increase in the adoption of biological solutions for plant production as a means of attaining sustainable agriculture. A detailed understanding of the influence of specific bioinoculants and their volatile metabolites on native soil and plant microbiomes can improve future microbiome management practices. Here, we explore the potential influence of bacterial inoculants and their associated volatiles on the soil and plant microbiome
 
-**Raw data for reproducing this analysis is deposited on https://www.ebi.ac.uk/ena/browser/view/PRJEB61122; downloaded using SRA-tools**
+**Raw data for reproducing this analysis is deposited on https://www.ebi.ac.uk/ena/browser/view/PRJEB61122; and can be downloaded using SRA-tools.**
 
 **Project Structure**
 

@@ -86,6 +86,7 @@ Contributors
 Expedito Olimi
 
 Acknowledgments
+
 This work was supported by the EXCALIBUR research project with funding from the European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 817946 (to Gabriele Berg).
 
 

@@ -1,6 +1,6 @@
 
 
-**Title: Plant microbiome responses to bioinoculants and volatiles**
+#Title: Plant microbiome responses to bioinoculants and volatiles
 
 
 Olimi et al.,
@@ -47,7 +47,7 @@ The objects are composed from the files metadata, asv/formerly called OTU table,
 **Getting Started**
 
 
-# Perform your analysis using the Rscript by loading the script in R:
+**Perform your analysis using the Rscript by loading the script in R:**
 
 #Note to define the right directory
 

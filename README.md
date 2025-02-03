@@ -1,4 +1,6 @@
-
+element { 
+  font-size: 75;
+}
 
 **Title: Plant microbiome responses to bioinoculants and volatiles**
 

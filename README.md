@@ -25,13 +25,55 @@ The objects are composed from the files metadata, asv/formerly called OTU table,
 
 
 **Getting Started**
+
+
+# Perform your analysis using the Rscript by loading the script in R:
+#Note to define the right directory
+
+
+```
+Microcosm.Rmd
+```
+
+or 
+```
+Microcosm.html
+```
+
+#Fungal community
+```
+R
+load("Fungi_merged.RData")
+```
+
+#Bacterial community
+```
+R
+load("Bacteria_merged.RData")
+```
+
+**Note**
+
+#dowload these sourcecode files for successfully running all code chunks 
+```
+source("Rscript_parwise.adonis.txt")
+source("aggregate_top_taxa.txt")
+#source("PD.txt")
+source("aggregate_rare.txt")
+#source("plot_composition.txt")
+source("RSCRIPT_parwise.adonis.txt")
+#source("plot_hierarchy.R")
+```
+
 Prerequisites
 Python 3.x
 R environment
 
+
 **Installation**
 
-1. Clone the repository:
+
+Clone the repository:
 
 ```
 sh
@@ -64,23 +106,6 @@ cd FAPROTAX_1.2.10/
 ./collapse_table.py -i otu_table.biom -o functional_table.biom -g FAPROTAX.txt
 ```
 
-# Perform your analysis using the Rscript by loading the script in R:
-#Note to define the right directory
-
-```
-Microcosm.Rmd
-```
-#Fungal community
-```
-R
-load("Fungi_merged.RData")
-```
-
-#Bacterial community
-```
-R
-load("Bacteria_merged.RData")
-```
 
 **Contributors**
 

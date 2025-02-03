@@ -82,12 +82,13 @@ R
 load("Bacteria_merged.RData")
 ```
 
-Contributors
+**Contributors**
+
 Expedito Olimi
 
-Acknowledgments
+**Acknowledgments**
 
-This work was supported by the EXCALIBUR research project with funding from the European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 817946 (to Gabriele Berg).
+This work was supported by the EXCALIBUR research project with funding from the European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 817946 (**to Gabriele Berg**).
 
 
 

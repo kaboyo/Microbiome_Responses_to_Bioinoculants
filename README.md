@@ -1,24 +1,35 @@
 
 
 **Title: Plant microbiome responses to bioinoculants and volatiles**
-Olimi et al., [
+
+
+Olimi et al.,
+
 **E-mail:** expedito.olimi@tugraz.a
 **ORCID** — (0000-0003-2549-0301)
+
 
 There is an increase in the adoption of biological solutions for plant production as a means of attaining sustainable agriculture. A detailed understanding of the influence of specific bioinoculants and their volatile metabolites on native soil and plant microbiomes can improve future microbiome management practices.Here, we explore the potential influence of bacterial inoculants and their associated volatiles on the soil and plant microbiome
 
 **Raw data for reproducing this analysis is deposited on https://www.ebi.ac.uk/ena/browser/view/PRJEB61122; downloaded using SRA-tools**
 
 **Project Structure**
-The object:
+
+The data objects:
+
 Fungi_merged.RData — Contains data related to the fungal community.
 Bacteria_merged.RData — Contains data related to bacterial commmunity community.
+
 **These data are composed into phyloseq formated objects**
+
 The objects are composed from the files metadata, asv/formerly called OTU table, and the taxonomy tables for bacterial and fungal community, respectively: 
+
 -Mapping_File_16S_Combined.txt
 -Bacteria-table.txt
 -Taxon_Bacteria.txt
+
 &
+
 -Mapping_File_ITS_Combined.txt
 -Fungi-table.txt
 -Taxon_Fungi.txt
@@ -26,7 +37,9 @@ The objects are composed from the files metadata, asv/formerly called OTU table,
 **Microcosm.Rmd — R script used to load processed microbiome data**
 
 **Functional assignment of community was based on scripts defined for bacterial and fungal community functional assignment, present in:**
+
 -FUNGuild/: Directory containing scripts and tools for functional guild analysis of fungal communities.
+
 -FAPROTAX_1.2.10/: Directory containing scripts and tools for functional guild analysis of bacterial communities.
 
 
@@ -34,6 +47,7 @@ The objects are composed from the files metadata, asv/formerly called OTU table,
 
 
 # Perform your analysis using the Rscript by loading the script in R:
+
 #Note to define the right directory
 
 
@@ -98,7 +112,9 @@ conda activate microbiome
 **Usage**
 
 **Data Analysis*
+
 #Functinal predictions**
+
 Prepare your workspace:
 
 ```
